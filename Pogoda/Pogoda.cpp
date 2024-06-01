@@ -172,5 +172,6 @@ int main()
     delete blowEffect;
     delete lightEffect;
     delete fireEffect;
+    delete smokeEffect;
     return 0;
 }

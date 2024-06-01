@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{0EA60AED-6D8F-416F-98B9-7BDA77E301E6}|Pogoda\\Pogoda.vcxproj|solutionrelative:Pogoda\\Pogoda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0EA60AED-6D8F-416F-98B9-7BDA77E301E6}|Pogoda\\Pogoda.vcxproj|C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\SpecialEffects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0EA60AED-6D8F-416F-98B9-7BDA77E301E6}|Pogoda\\Pogoda.vcxproj|solutionrelative:Pogoda\\SpecialEffects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0EA60AED-6D8F-416F-98B9-7BDA77E301E6}|Pogoda\\Pogoda.vcxproj|C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\Smoke.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0EA60AED-6D8F-416F-98B9-7BDA77E301E6}|Pogoda\\Pogoda.vcxproj|solutionrelative:Pogoda\\Smoke.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -38,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,6 +55,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SpecialEffects.cpp",
+              "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\SpecialEffects.cpp",
+              "RelativeDocumentMoniker": "Pogoda\\SpecialEffects.cpp",
+              "ToolTip": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\SpecialEffects.cpp",
+              "RelativeToolTip": "Pogoda\\SpecialEffects.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-30T07:38:23.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Smoke.cpp",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\Smoke.cpp",
               "RelativeDocumentMoniker": "Pogoda\\Smoke.cpp",
@@ -62,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Smoke.h",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\Smoke.h",
               "RelativeDocumentMoniker": "Pogoda\\Smoke.h",
@@ -74,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Fire.cpp",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\Fire.cpp",
               "RelativeDocumentMoniker": "Pogoda\\Fire.cpp",
@@ -86,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Fire.h",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\Fire.h",
               "RelativeDocumentMoniker": "Pogoda\\Fire.h",
@@ -98,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Lightning.h",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\Lightning.h",
               "RelativeDocumentMoniker": "Pogoda\\Lightning.h",
@@ -110,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Lightning.cpp",
               "DocumentMoniker": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\Lightning.cpp",
               "RelativeDocumentMoniker": "Pogoda\\Lightning.cpp",
@@ -128,7 +144,7 @@
               "RelativeDocumentMoniker": "Pogoda\\Pogoda.cpp",
               "ToolTip": "C:\\Users\\Bartek\\Desktop\\Studia rok2\\Studia semestr 4\\PK\\Emi\\Klasy\\Pogoda\\Pogoda\\Pogoda.cpp",
               "RelativeToolTip": "Pogoda\\Pogoda.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCIAAAAeAAAA",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAgwK4AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-29T12:40:57.769Z",
               "EditorCaption": ""
